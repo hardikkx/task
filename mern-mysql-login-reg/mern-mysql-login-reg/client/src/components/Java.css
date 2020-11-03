@@ -1,0 +1,11 @@
+.form_1{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    align-items: center;
+    flex: 1;
+    width:100%;
+}
+.h3{
+    margin-left:30%;
+}
